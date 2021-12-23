@@ -6,3 +6,4 @@ keras
 streamlit
 datetime
 sklearn
+tensorflow
