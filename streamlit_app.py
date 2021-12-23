@@ -30,6 +30,7 @@ plt.xlabel('Date')
 plt.plot(df.Close,'g')
 plt.plot(ma100,'blue')
 plt.plot(ma200,'r')
+plt.legend()
 
 st.pyplot(fig)
 
